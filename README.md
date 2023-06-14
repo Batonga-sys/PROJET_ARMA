@@ -4,4 +4,6 @@ Pour modéliser et prévoir les séries temporelles, Le modèle ARMA (AutoRegres
 
 L'objectif principal du modèle ARMA est de représenter la relation entre les observations passées d'une série temporelle et les observations futures. Il s'appuie sur l'hypothèse que les valeurs passées de la série temporelle influencent les valeurs futures.
 
+Le modèle ARMA combine les termes autorégressifs (AR) et les termes à moyenne mobile (MA) pour modéliser les données temporelles. L'ordre du modèle ARMA est généralement noté sous la forme ARMA(p, q), où p est l'ordre de la composante AR et q est l'ordre de la composante MA.
+
 Le fichier d'entrée est le fichier "Main_arma.py" , C'est lui qu'il faut exécuter pour le projet. 
