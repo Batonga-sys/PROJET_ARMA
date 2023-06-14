@@ -1,4 +1,7 @@
 # Modèle ARMA
+
+Bienvenue sur ce projet !
+
 Ce projet consiste à implémenter un modèle de prévision sur les données de series temprelles des voyageurs entre 2000 et 2019. 
 Pour modéliser et prévoir les séries temporelles, Le modèle ARMA (AutoRegressive Moving Average) est le modèle statistique utilisé. 
 
