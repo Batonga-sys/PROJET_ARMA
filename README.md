@@ -1,4 +1,4 @@
-# Modèle ARMA
+#PROJET ARMA
 
 Bienvenue sur ce projet !
 
