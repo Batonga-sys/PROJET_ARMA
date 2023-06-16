@@ -1,0 +1,6 @@
+matplotlib
+seaborn
+pandas
+numpy
+tqdm
+more_itertools
